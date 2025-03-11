@@ -9,17 +9,25 @@ ESP8266 [for receiver]               (1)
 ESP-WROOM-32 [for transmitter]       (1)
 
 Modules:
+
 Neo-6M GPS Module                    (1)
+
 LoRa Ra-02                           (2)
 
 Wires:
+
 Female-to-Female wires
+
 Female-to-Male wires
+
 Male-to-Male wires
 
 Softwares:
+
 Arduino IDE
+
 ThingSpeak
+
 Blynk
 
 Using this specific code, the GPS data that is latitude, longitude, altitude and speed are shown on ThingSpeak and Blynk. A link will also be generated on Blynk using which real-time location can be viewed on Google Maps.
